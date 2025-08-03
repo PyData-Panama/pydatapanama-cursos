@@ -1,3 +1,4 @@
+
 name: pyda-py311
 channels:
   - defaults
@@ -14,3 +15,4 @@ dependencies:
   - seaborn
   - ipywidgets
 prefix: C:\Users\Leyda\anaconda3\envs\pyda-py311
+
